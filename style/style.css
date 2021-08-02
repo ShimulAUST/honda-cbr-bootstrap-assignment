@@ -1,0 +1,48 @@
+/*****************
+Header Section 
+************/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+  }
+.header-section-color{
+    
+    background-color: #264653;
+
+}
+.gray{
+    filter: grayscale(100%);
+  }
+hr{
+    width:100px; 
+    margin: auto;
+}
+.demo-color{
+    color: #E76F51;
+}
+
+.ratings i {
+    color: #cecece;
+    font-size: 14px
+}
+
+.rating-color {
+    color: #E76F51 !important
+}
+
+.accordion-text-color{
+    color: #7E848C;
+}
+
+.btn-secondary{
+    background-color: #E76F51 !important;
+}
+.btn-outline-secondary{
+    border-color: #E76F51!important;
+    color: #E76F51!important;
+}
+.name-color{
+    color:#23A6F0;
+
+}
